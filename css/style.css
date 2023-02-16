@@ -1,0 +1,142 @@
+body{
+	margin:0;
+}
+.wrapper{
+
+	margin-top: 10px;
+	margin-left: 50px;
+	margin-right: 50px;
+	background-color: white;
+	width: 86%;
+	height: auto;
+	float: left;
+}
+
+.cover{
+	width: 100%;
+	background-color: skyblue;
+	float: left;
+	height: 150px;
+}
+.menuBar{
+	background-color: darkgreen;
+
+}
+
+ul{
+	life-style-type:none;
+	padding-top: 30px ;
+	margin:0;
+}
+
+li{
+	display: inline;
+	padding: 20px;
+}
+
+li:hover{
+	background-color: blue;
+	border: black;
+}
+
+.home{
+	display: inline-block;
+	width: 110px;
+	height: 16px;
+	padding: 2px;
+	border-right: 2px solid black;
+
+}
+.menu1{
+	display: inline-block;
+	width: 110px;
+	height: 16px;
+	padding: 2px;
+	border-right: 2px solid black;
+
+}
+.menu2{
+	display: inline-block;
+	width: 110px;
+	height: 16px;
+	padding: 2px;
+	border-right: 2px solid black;
+
+}
+.menu3{
+	display: inline-block;
+	width: 110px;
+	height: 16px;
+	padding: 2px;
+	border-right: 2px solid black;
+
+}
+.menu4{
+	display: inline-block;
+	width: 110px;
+	height: 16px;
+	padding: 2px;
+	
+
+}
+
+.wrapper2{
+	background-color: white;
+	height: auto;
+	float: left;
+	width: 100%;
+	background-color: darkcyan;
+	float: left;
+	height: 200px;
+}
+.wrapper3{
+	background-color: orange;
+	display: inline-block;
+	float: left;
+}
+
+.wrapper4{
+	background-color: orange;
+	display: inline-block;
+	float: right;
+}
+.wrapper5{
+	background-color: green;
+	display: block;
+}
+
+.item1, .item2, .item3, .item4{
+	border: 2px solid black;
+}
+
+.wrapper3{
+	margin-left: 20px;
+	margin-top: 20px;
+	width: 50%;
+	height:174px;
+}
+
+.wrapper4{
+	margin-right: 20px;
+	margin-top: 20px;
+	width: 40%;
+}
+.wrapper5{
+	padding: 10px;
+}
+
+p{
+	font-size: 5px;
+}
+
+.list{
+	font-size: 20px;
+}
+
+.content{
+	margin-bottom: -20px;
+}
+.copyright{
+	float: left;
+	margin-right: 100px;
+}
